@@ -38,7 +38,7 @@ If PyTorch is not installed, install it from the official PyTorch website accord
 ## How to Run
 
 ```bash
-python llm_text_generation_experiment.py
+python text_generation_llm.py
 ```
 
 ## Output
